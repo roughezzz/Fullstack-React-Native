@@ -4,7 +4,5 @@ The Complete Guide to React Native
 The Book Exercises
 
 #Instruction
-
-#npm install
-
-#npm start
+1. npm install
+2. npm start
